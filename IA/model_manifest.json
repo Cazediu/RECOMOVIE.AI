@@ -1,0 +1,7 @@
+{
+  "modelo": "modelo_recomovie.joblib",
+  "filmes": 84432,
+  "clusters": 25,
+  "caracteristicas": 20,
+  "genero_weight": 2.0
+}

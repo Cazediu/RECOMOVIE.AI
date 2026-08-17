@@ -1,0 +1,21 @@
+{
+  "modelo_oficial": {
+    "k": 25,
+    "amostra": 10000,
+    "silhouette": 0.2993590831756592,
+    "davies_bouldin": 1.4676569904332701,
+    "calinski_harabasz": 800.8506091847486
+  },
+  "estabilidade_seeds": {
+    "seeds": [
+      0,
+      7,
+      21,
+      42,
+      99
+    ],
+    "ari_media": 0.6147128912664759,
+    "ari_desvio": 0.06231280003750839,
+    "ari_min": 0.5298851899647322
+  }
+}
