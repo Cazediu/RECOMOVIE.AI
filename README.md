@@ -1,4 +1,4 @@
-# Recomovie AI - Etapa 3
+# Recomovie AI 
 
 Projeto simples de recomendação de filmes usando clusterização.
 
